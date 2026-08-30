@@ -27,9 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
