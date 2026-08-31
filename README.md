@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
