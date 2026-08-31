@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Ternary Search
 |  |
 | ------- |
