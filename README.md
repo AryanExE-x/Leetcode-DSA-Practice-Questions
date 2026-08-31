@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
