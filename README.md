@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
