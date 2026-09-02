@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
 | ------- |
