@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0141-linked-list-cycle) |
