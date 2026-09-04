@@ -26,10 +26,12 @@ class Solution {
             arr.set(j,temp1);
             i++; j--;
         }
-        for(i=0;i<arr.size()-1;i++){
-            arr.get(i).next=arr.get(i+1);
-        }
-        arr.get(arr.size() - 1).next = null;
+        for(i = 0; i < arr.size(); i++){
+            if(i == arr.size()-1)
+                arr.get(i).next = null;
+            else
+                 arr.get(i).next = arr.get(i+1);
+}
 
         return arr.get(0);
     }
