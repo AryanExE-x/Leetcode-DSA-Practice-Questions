@@ -19,7 +19,7 @@ class Solution {
         ListNode tail1=temp;  //mark it
         ListNode head2=tail1.next; //mark it
         tail1.next=null; 
-        //WE CANT BREAK IT RN SINCE WE ARE ITERATING TEMP FROM DUMMY. WE CAN BREAK IT IN CASE WE ARE RUNNING THE FOR LOOP FROM HEAD2 TO RIGHT-LEFT;
+        //WE CAN BREAK IT RN SINCE WE ARE NOT ITERATING TEMP FROM DUMMY. WE CAN BREAK IT IN CASE WE ARE RUNNING THE FOR LOOP FROM HEAD2 TO RIGHT-LEFT;
 
         temp=head2; //temp ko starting position pe lejao and again loop chalao
         for(int i=1;i<=right-left;i++){ //ab right times chalao fir tod do
