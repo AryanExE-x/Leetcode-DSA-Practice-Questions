@@ -29,13 +29,13 @@ class Solution {
         ListNode head3=tail2.next;  //mark it
         tail2.next=null;
 
-        tail2=reverse(head2); //reverse the sublist
+        reverse(head2); //reverse the sublist
 
         tail1.next=tail2; //now attach the nodes
         head2.next=head3; //attach the second half with the third half
         return dummy.next; //return the head;
     }
-    public ListNode reverse(ListNode head){
+    public void reverse(ListNode head){
         ListNode prev= null;
         ListNode curr=head;
         ListNode forw= null;
@@ -45,7 +45,6 @@ class Solution {
             prev=curr;
             curr=forw;
         }
-        return prev;
-
+        
     }
 }
