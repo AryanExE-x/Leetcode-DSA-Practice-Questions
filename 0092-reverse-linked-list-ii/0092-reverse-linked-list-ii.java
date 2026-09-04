@@ -10,29 +10,42 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        ArrayList<ListNode> arr = new ArrayList<>();
-        ListNode temp = head;
-        
-        while(temp!=null){
-            arr.add(temp);
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        dummy.next=head;
+        for(int i=1;i<=left-1;i++){ //loop chalao left-1 times fir tod dena
             temp=temp.next;
         }
-        int i = left-1; //1th indexing hai not 0's indexing
-        int j = right-1;
-        while(i<j){
-            ListNode temp1 = arr.get(i);
-            ListNode temp2 = arr.get(j);
-            arr.set(i,temp2);
-            arr.set(j,temp1);
-            i++; j--;
-        }
-        for(i = 0; i < arr.size(); i++){
-            if(i == arr.size()-1)
-                arr.get(i).next = null;
-            else
-                 arr.get(i).next = arr.get(i+1);
-}
+        ListNode tail1=temp;  //mark it
+        ListNode head2=tail1.next; //mark it
+        tail1.next=null; 
+        //WE CANT BREAK IT RN SINCE WE ARE ITERATING TEMP FROM DUMMY. WE CAN BREAK IT IN CASE WE ARE RUNNING THE FOR LOOP FROM HEAD2 TO RIGHT-LEFT;
 
-        return arr.get(0);
+        temp=head2; //temp ko starting position pe lejao and again loop chalao
+        for(int i=1;i<=right-left;i++){ //ab right times chalao fir tod do
+            temp=temp.next;
+        }
+        ListNode tail2=temp;  //mark it
+        ListNode head3=tail2.next;  //mark it
+        tail2.next=null;
+
+        tail2=reverse(head2); //reverse the sublist
+
+        tail1.next=tail2; //now attach the nodes
+        head2.next=head3; //attach the second half with the third half
+        return dummy.next; //return the head;
+    }
+    public ListNode reverse(ListNode head){
+        ListNode prev= null;
+        ListNode curr=head;
+        ListNode forw= null;
+        while(curr!=null){
+            forw=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=forw;
+        }
+        return prev;
+
     }
 }
