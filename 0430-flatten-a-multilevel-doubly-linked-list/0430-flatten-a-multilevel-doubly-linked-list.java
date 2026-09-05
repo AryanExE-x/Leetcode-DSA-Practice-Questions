@@ -29,8 +29,8 @@ class Solution {
         }
         return head;
     }
-    public Node flat(Node head){
-        flatten(head);
-        return head;
-    }
+    //public Node flat(Node head){
+    //    flatten(head);
+    //    return head;
+    //}
 }
