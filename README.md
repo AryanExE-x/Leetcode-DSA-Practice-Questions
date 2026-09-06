@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
