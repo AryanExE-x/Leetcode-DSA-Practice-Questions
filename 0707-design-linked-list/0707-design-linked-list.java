@@ -82,7 +82,7 @@ class MyLinkedList {
         Node temp = head;
 
         // Reach node before index
-        for(int i = 1; i < index; i++){
+        for(int i = 1; i <= index-1; i++){
             temp = temp.next;
         }
 
