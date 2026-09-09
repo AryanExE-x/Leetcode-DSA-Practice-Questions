@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
@@ -120,5 +121,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0344-reverse-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
