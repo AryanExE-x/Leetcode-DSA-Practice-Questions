@@ -1,7 +1,9 @@
 class Solution {
     public boolean isValid(String s) {
+        int n =s.length();
+        if(n%2==1) return false; //odd size
         Stack<Character> st = new Stack<>();
-        for(int i=0;i<s.length();i++){
+        for(int i=0;i<n;i++){
             char ch = s.charAt(i);
             if(ch=='(' || ch=='{' || ch=='['){
                 st.push(ch);
