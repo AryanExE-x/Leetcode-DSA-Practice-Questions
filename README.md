@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
