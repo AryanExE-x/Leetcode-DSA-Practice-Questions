@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
