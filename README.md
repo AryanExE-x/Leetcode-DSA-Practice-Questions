@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0441-arranging-coins) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
 | ------- |
