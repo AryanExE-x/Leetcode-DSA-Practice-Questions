@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
