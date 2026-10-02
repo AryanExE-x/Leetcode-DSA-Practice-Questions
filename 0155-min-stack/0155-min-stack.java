@@ -7,11 +7,12 @@ class MinStack {
     }
     
     public void push(int value) {
-        if(st.size()==0) min = (long)value;
-        if((long)value>min) st.push((long)value);
+        long val = (long) value;
+        if(st.size()==0) min = val;
+        if(val>min) st.push(val);
         else { //stack mein fake value daalo
-            st.push((long)value + ((long)value-min));
-            min = (long)value;
+            st.push(val + (val-min));
+            min = val;
         }
     }
     
