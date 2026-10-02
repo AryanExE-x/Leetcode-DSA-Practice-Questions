@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
