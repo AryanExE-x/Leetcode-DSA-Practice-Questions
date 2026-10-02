@@ -11,7 +11,7 @@ class Solution {
                 count++;
                 st.pop();
             }
-            if(st.size()>0) count++; //VERY VERY IMPORTANT. GREATER WALE KO
+            if(st.size()>0) count++;
             ans[i]=count;
             st.push(arr[i]);
         }
