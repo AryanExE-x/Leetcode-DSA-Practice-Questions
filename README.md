@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0189-rotate-array) |
+| [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
