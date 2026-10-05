@@ -1,36 +1,26 @@
 class MyQueue {
     Stack<Integer> st = new Stack<>();
     Stack<Integer> helper = new Stack<>();
-    public MyQueue() {
-        
-    }
     
-    public void push(int x) {
+    public void push(int x) {  //O(n) with AS- O(1)
+        //push at bottom of st
+        while(st.size()>0){
+            helper.push(st.pop());
+        }
         st.push(x);
-    }
-    
-    public int pop() {
-        //st ka bottom remove
-        while(st.size()>1){
-            helper.push(st.pop());
-        }
-        int front=st.pop();
         while(helper.size()>0){
             st.push(helper.pop());
         }
-        return front;
     }
     
-    public int peek() {
-        //st ka bottom print
-        while(st.size()>1){
-            helper.push(st.pop());
-        }
-        int front=st.peek();
-        while(helper.size()>0){
-            st.push(helper.pop());
-        }
-        return front;
+    public int pop() {  //O(1) 
+        //st ka top
+        return st.pop();
+    }
+    
+    public int peek() { //O(1) 
+        //st ka top
+        return st.peek();
     }
     
     public boolean empty() {
