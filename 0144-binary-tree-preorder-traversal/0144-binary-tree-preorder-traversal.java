@@ -19,7 +19,7 @@ class Solution {
         helper(root,ans);
         return ans; 
     }
-    public void helper(TreeNode root, List<Integer> ans){
+    public static void helper(TreeNode root, List<Integer> ans){
         if(root==null) return;
         ans.add(root.val);
         helper(root.left,ans);
