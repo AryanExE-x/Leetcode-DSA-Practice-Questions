@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0242-valid-anagram) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
