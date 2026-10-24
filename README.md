@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0503-next-greater-element-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -295,10 +298,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0938-range-sum-of-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
