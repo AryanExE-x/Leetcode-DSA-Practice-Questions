@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0119-pascals-triangle-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
