@@ -40,7 +40,7 @@ class Solution {
         Quad rst = helper(root.right);
         int maxVal = Math.max(root.val,Math.max(lst.max,rst.max));
         int minVal = Math.min(root.val,Math.min(lst.min,rst.min));
-        int sum = root.val + lst.sum + rst.sum;
+        int sum = root.val + lst.sum + rst.sum; //IMPORTANT
         boolean isBST = lst.isBST && rst.isBST && (lst.max<root.val) && (rst.min>root.val);
 
         if(isBST) maxSum = Math.max(sum,maxSum);
